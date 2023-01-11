@@ -1,0 +1,26 @@
+#root {
+  text-align: center;
+  min-height: 100%;
+  margin: 0;
+  padding: 4rem 0;
+  background:linear-gradient(#83EAF1,#63A4FF);
+}
+.container{
+  margin: 0;
+  padding: 0;
+}
+.fieldsContainer{
+  box-shadow:
+       inset 0 -3em 3em rgba(0,0,0,0.1),
+             0 0  0 2px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+  height: fit-content;
+  width: fit-content;
+  min-width: 37 0px;
+  overflow: hidden;
+  padding:0;
+  width: 60%;
+  margin: auto;
+  margin-top: 0;
+
+}
